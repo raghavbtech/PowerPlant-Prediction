@@ -81,7 +81,7 @@ This aligns with real-world thermodynamic behavior of power plants.
 The trained model has been deployed using **Streamlit**.
 
 Live Demo:
-[Add your Streamlit link here]
+(https://powerplant-prediction.streamlit.app/)
 
 Users can input environmental conditions and receive an instant prediction of power output.
 
@@ -119,7 +119,7 @@ power-plant-ml/
 1. Clone the repository
 
 ```
-git clone https://github.com/yourusername/power-plant-ml.git
+git clone https://github.com/raghavbtech/PowerPlant-Prediction.git
 ```
 
 2. Install dependencies
